@@ -1,0 +1,10 @@
+# [init]
+dir = "examples"
+
+commands = [
+    {exec = "node deelbaar.js"},
+    # {exec = "python3 pythoninputs.py", input = "something"},
+    # {exec = "php calculator.php", input = ["-", 5, 3]}, Have to checkc why this is not working..
+    # {exec = "python3 klaslokaal.py"},
+    # {exec = "node arginput.js 19 62 1962"}
+]

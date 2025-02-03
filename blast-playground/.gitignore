@@ -1,0 +1,8 @@
+node_modules/
+vendor/
+.idea/
+.phpunit.result.cache
+__pycache__/
+.env
+!source_dir/.gitkeep
+env/

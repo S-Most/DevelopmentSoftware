@@ -13,7 +13,7 @@ PHP tests with PHPUnit, NodeJS tests with Jasmine, Python and Jupyter Notebook (
 ## Installation
 
 ```shell
-git clone https://github.com/alexanderserraris/blast-sandbox.git
+CLONE THE REPOSITORY <-- Veranderen naar GITLABLINK @BOB
 cd blast-sandbox
 composer install
 npm install
